@@ -6,3 +6,5 @@ This blog will probably be mostly .md files but it might also have some code att
 Who knows, this might either be a long and confusing read, or just a stub with barely any information in it. Anyways, my good reader, I haven't the slightest idea who you are or why you are here, but I wish you good luck on your journey through these thoughts of mine. 
 
 -Barnabas
+
+UI: lehet többet kellett volna irodalommal foglalkoznom
